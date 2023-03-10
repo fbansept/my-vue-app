@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "my-vue-app",
+  base: "https://fbansept.github.io/my-vue-app/",
   build: {
     lib: {
       entry: 'src/my-element.js',
